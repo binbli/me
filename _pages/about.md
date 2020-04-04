@@ -29,11 +29,11 @@ Services
 * Reviewer:  IROS 2015 - 2020; ICRA 2019; RA-L 2016, 2019, 2020; WAFR 2016, 2018; ISER 2018; IJRR, 2017; T-RO, 2016, 2019; RSS, 2016; ICIEA, 2014; T-ASE 2019.
 
 * Supervised Students
-⋅⋅⋅Master Students
-⋅⋅⋅Shuangyu Xie (CSCE 691, Fall 2019 - Current)
-⋅⋅⋅Jackson Delametter (CSCE 691, Spring 2019 - Current)
-⋅⋅⋅Manoj Reddy Rupireddy (CSCE 691, Spring 2019 - Current)
-⋅⋅⋅Yiwei Huang (Visiting MS student, Shanghai Jiaotong Univ., Summer 2018)
+  * Master Students
+  * Shuangyu Xie (CSCE 691, Fall 2019 - Current)
+  * Jackson Delametter (CSCE 691, Spring 2019 - Current)
+  * Manoj Reddy Rupireddy (CSCE 691, Spring 2019 - Current)
+  * Yiwei Huang (Visiting MS student, Shanghai Jiaotong Univ., Summer 2018)
 
 ⋅⋅⋅Undergraduate Students
 ⋅⋅⋅Ankit Ramchandani (USRG, Summer 2018 - Spring 2019)
