@@ -45,6 +45,7 @@ Teaching Assistant, Compute Science Department, Texas A&M University
 
 Awards and Honors
 ------
+* Department Travel Grant, Texas A&M University, 2020
 * The 3rd Overall Place, Year 1 of GM-SAE AutoDrive Challenge, The 12th Unmanned Team, TAMU, 2019
 * The 2nd Overall Place, Year 1 of GM-SAE AutoDrive Challenge, The 12th Unmanned Team, TAMU, 2018
 * Graduate Student Research and Presentation Grant, Texas A&M University, 2017
