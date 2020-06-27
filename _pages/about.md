@@ -12,6 +12,7 @@ My research interests are stochastic modeling, sensor fusion, localization, mapp
 
 Updates
 ------
+* **[06/2020]** My paper, "Lane Marking Verification for High Definition Map Maintenance Using Crowdsourced Images", was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
 * **[2019/09]** Our paper, "Toward Automatic Subsurface Pipeline Mapping by Fusing a Ground-Penetrating Radar and a Camera", was accepted by IEEE Transactions on Automation Science and Engineering (T-ASE).
 * **[2019/08]** I was sponsored by [AutoDrive Challenge](http://autodrive.tamu.edu/) to support our autonomous vehicle team at Texas A&M University.
 * **[2019/06]** Our paper, "Automatic Pavement Crack Detection by Multi-Scale Image Fusion", was accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).
