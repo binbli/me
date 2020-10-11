@@ -12,7 +12,7 @@ My research interests are robot perception, sensor fusion, stochastic modeling, 
 
 Updates
 ------
-* **[2020/10]** I successfully passed my Ph.D. thesis defense dissertation. 
+* **[2020/10]** I successfully passed my Ph.D. dissertation defense. 
 * **[2020/06]** My paper, "Lane Marking Verification for High Definition Map Maintenance Using Crowdsourced Images", was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
 * **[2019/09]** Our paper, "Toward Automatic Subsurface Pipeline Mapping by Fusing a Ground-Penetrating Radar and a Camera", was accepted by IEEE Transactions on Automation Science and Engineering (T-ASE).
 * **[2019/09]** The website for the [camera-LiDAR bimodal lane verification, detection, tracking and generation for autonomous vehicle](http://telerobot.cs.tamu.edu/lane/) was officially online.
