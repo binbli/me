@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers
 -----
-<img align="left" width="100" height="100" src="https://github.com/bli-tamu/me/blob/master/images/li2019toward-fig.png">  Haifeng Li, Chieh Chou, Longfei Fan, **Binbin Li**, Di Wang, Dezhen Song, "Toward Automatic Subsurface Pipeline Mapping by Fusing a Ground-Penetrating Radar and a Camera",  IEEE Transactions on Automation Science and Engineering (accepted). 
+<img align="left" width="70" height="70" src="https://github.com/bli-tamu/me/blob/master/images/li2019toward-fig.png">  Haifeng Li, Chieh Chou, Longfei Fan, **Binbin Li**, Di Wang, Dezhen Song, "Toward Automatic Subsurface Pipeline Mapping by Fusing a Ground-Penetrating Radar and a Camera",  IEEE Transactions on Automation Science and Engineering (accepted). 
 * **Binbin Li**, Heping Chen, and Tongdan Jin, "Support Vector Regression for Optimal Robotic Force Control Assembly'', ASME Journal of Manufacturing Science and Engineering, 2019 (accepted).  
 * Hsin-Min Cheng, Dezhen Song, Aaron Angert, **Binbin Li**, Jingang Yi, "Proprioceptive Localization Assisted by Magnetoreception: A Minimalist Intermittent Heading-based Approach",  IEEE Robotics and Automation Letters, vol. 4, no. 2, pp. 586-593, April 2019.
 *  Haifeng Li, Dezhen Song, Yu Liu, and **Binbin Li**, "Automatic Pavement Crack Detection by Multi-Scale Image Fusion", IEEE Transactions on Intelligent Transportation Systems, 2018, pp.1-12.
