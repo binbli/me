@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a fifth-year PhD student from [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/). I am working in the [NetBot Laboratory](http://telerobot.cs.tamu.edu/) and my advisor is Dr. [Dezhen Song](http://faculty.cs.tamu.edu/dzsong/). Previously, I completed my bachelor's degree at [Harbin Institute of Technology](http://en.hit.edu.cn/).<!--- Here is my [resume](https://drive.google.com/file/d/15nmx0AYEzyDuG-Eg7kDtm7bIGg2_xdhA/view?usp=sharing).--> Here are my [Google Scholar](https://scholar.google.com/citations?user=0lVZNXIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Binbin_Li14), [LinkedIn](https://www.linkedin.com/in/binbinli-tamu), GitHub (check [internal](https://github.tamu.edu/BinbinLi?tab=repositories) if your domain is within tamu.edu domain; otherwise, see [external](https://github.com/bli-tamu/)), and [E-mail](mailto:libinbinhit@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
-My research interests are robot perception, sensor fusion, stochastic modeling, behavior planning, localization, mapping, and SLAM for robotics and augmented/virtual reality. 
+My research interests include perception, motion planning, scene understanding, localization and mapping for robotics.
 
 Updates
 ------
@@ -29,7 +29,7 @@ Updates
 Services
 ------
 * Student Member: IEEE, IEEE RAS, SAE International.
-* Reviewer:  IROS 2015 - 2020; ICRA 2019; RA-L 2016, 2019, 2020; WAFR 2016, 2018; ISER 2018; IJRR, 2017; T-RO, 2016, 2019; RSS, 2016; ICIEA, 2014; T-ASE 2019.
+* Reviewer:  IROS 2015 - 2020; ICRA 2019, 2021; RA-L 2016, 2019, 2020; WAFR 2016, 2018; ISER 2018; IJRR, 2017; T-RO, 2016, 2019; RSS, 2016; ICIEA, 2014; T-ASE 2019.
 
 * Supervised Students
   * Shuangyu Xie (CSCE 691, Fall 2019 - Fall 2020)
