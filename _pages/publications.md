@@ -22,7 +22,7 @@ Selected Conference Papers
 * **Binbin Li** and Dezhen Song, "Probabilistic Boundary Coverage for Unknown Target Fields with Large Perception Uncertainty and Limited Sensing Range", International Symposium on Robotics Research (ISRR), Puerto Varas, Chile, December 11-14, 2017. [[URL](https://link.springer.com/chapter/10.1007/978-3-030-28619-4_50)]
 * Heping Chen, **Binbin Li**, Dave Gravel, George Zhang, and Biao Zhang, "Robot learning for complex manufacturing process", IEEE International Conference on Industrial Technology (ICIT), Seville, Spain, March 17-19, 2015. [[URL](https://ieeexplore.ieee.org/document/7125572)]
 * **Binbin Li**, Heping Chen, and Tongdan Jin, "Industrial Robotic Assembly Process Modeling Using Support Vector Regression", Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Chicago, USA, September 2014. [[URL](https://ieeexplore.ieee.org/document/6943175)]
-* James Farris, **Binbin Li**, Tongdan Jin, and Heping Chen, "Design of a Cost-Effective Wireless System for Estimating Solar Photovoltaics Generation", Proc. 24th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM), pp. 1 – 10, San Antonio, Texas, USA, May 2014. [URL](https://cdm16018.contentdm.oclc.org/digital/collection/p15125coll7/id/6916/rec/1)
+* James Farris, **Binbin Li**, Tongdan Jin, and Heping Chen, "Design of a Cost-Effective Wireless System for Estimating Solar Photovoltaics Generation", Proc. 24th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM), pp. 1 – 10, San Antonio, Texas, USA, May 2014. [[URL](https://cdm16018.contentdm.oclc.org/digital/collection/p15125coll7/id/6916/rec/1)]
 
 POSTER PRESENTATIONS
 -----
