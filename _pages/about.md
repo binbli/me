@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a fifth-year PhD student from [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/).  Previously, I completed my bachelor's degree at [Harbin Institute of Technology](http://en.hit.edu.cn/).<!--- Here is my [resume](https://drive.google.com/file/d/15nmx0AYEzyDuG-Eg7kDtm7bIGg2_xdhA/view?usp=sharing).--> Here are my [Google Scholar](https://scholar.google.com/citations?user=0lVZNXIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Binbin_Li14), [LinkedIn](https://www.linkedin.com/in/binbinli-tamu), GitHub (check [internal](https://github.tamu.edu/BinbinLi?tab=repositories) if your domain is within tamu.edu domain; otherwise, see [external](https://github.com/bli-tamu/)), and [E-mail](mailto:libinbinhit@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
-My research interests include perception, motion planning, scene understanding, localization and mapping for robotics.
+My research interests include robot perception, behavior planning, scene understanding, localization and mapping for robotics.
 
 Updates
 ------
@@ -30,14 +30,6 @@ Services
 ------
 * Student Member: IEEE, IEEE RAS, SAE International.
 * Reviewer:  IROS 2015 - 2020; ICRA 2019, 2021; RA-L 2016, 2019, 2020; WAFR 2016, 2018; ISER 2018; IJRR, 2017; T-RO, 2016, 2019; RSS, 2016; ICIEA, 2014; T-ASE 2019.
-
-* Supervised Students
-  * Shuangyu Xie (CSCE 691, Fall 2019 - Fall 2020)
-  * Jackson Delametter (CSCE 691, Spring 2019 - Fall 2019)
-  * Manoj Reddy Rupireddy (CSCE 691, Spring 2019 - Fall 2019)
-  * Yiwei Huang (Visiting MS student, Shanghai Jiaotong Univ., Summer 2018)
-  * Ankit Ramchandani (USRG, Summer 2018 - Spring 2019)
-  * Guillermo Trujillo Zarate (CANIETI, Summer 2016)
 
 Teaching Skills
 ------
