@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers
 -----
-* Xuesu Xiao, Yulin Zhang, Haifeng Li, Hongpeng Wang, **Binbin Li**, "Camera-IMU Extrinsic Calibration Quality Monitoring for Autonomous Ground Vehicles", accepted to IEEE Robotics and Automation Letters (RA-L) and IEEE International Conference on Robotics and Automation (ICRA’22) [[url](https://ieeexplore.ieee.org/document/9714838)]. 
+* Xuesu Xiao, Yulin Zhang, Haifeng Li, Hongpeng Wang, **Binbin Li**, "Camera-IMU Extrinsic Calibration Quality Monitoring for Autonomous Ground Vehicles", accepted to IEEE Robotics and Automation Letters (RA-L) and IEEE International Conference on Robotics and Automation (ICRA 22) [[url](https://ieeexplore.ieee.org/document/9714838)]. 
 * Haifeng Li, Chieh Chou, Longfei Fan, **Binbin Li**, Di Wang, Dezhen Song, "Toward Automatic Subsurface Pipeline Mapping by Fusing a Ground-Penetrating Radar and a Camera",  IEEE Transactions on Automation Science and Engineering, vol 17, no. 2, pp. 722 - 734, April 2020. [[URL](https://ieeexplore.ieee.org/document/8856239)]
 * **Binbin Li**, Heping Chen, and Tongdan Jin, "Support Vector Regression for Optimal Robotic Force Control Assembly'', ASME Journal of Manufacturing Science and Engineering, 2019 (accepted). [[URL](https://asmedigitalcollection.asme.org/manufacturingscience/article/142/1/011007/1068296?casa_token=pXFc6QTTPkkAAAAA:8LICuHVAdYyg2I4mCkjY059-R4lt9uLuXCIFeQwXEX4c34zvPTeXThx3I_7W7DJHNBP53lI)]
 * Hsin-Min Cheng, Dezhen Song, Aaron Angert, **Binbin Li**, Jingang Yi, "Proprioceptive Localization Assisted by Magnetoreception: A Minimalist Intermittent Heading-based Approach",  IEEE Robotics and Automation Letters, vol. 4, no. 2, pp. 586-593, April 2019. [[URL](https://ieeexplore.ieee.org/document/8606111)]
