@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my Ph.D. in Computer Engineering at [Texas A&M University](https://www.tamu.edu/).  Previously, I completed my bachelor's degree in Electrical and Electronics Engineering  at [Harbin Institute of Technology](http://en.hit.edu.cn/).<!--- Here is my [resume](https://drive.google.com/file/d/15nmx0AYEzyDuG-Eg7kDtm7bIGg2_xdhA/view?usp=sharing).--> Here are my [Google Scholar](https://scholar.google.com/citations?user=0lVZNXIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Binbin_Li14), [LinkedIn](https://www.linkedin.com/in/binbli/), GitHub (check [internal](https://github.tamu.edu/BinbinLi?tab=repositories) if your domain is within tamu.edu domain; otherwise, see [external](https://github.com/binbli/)), and [E-mail](mailto:libinbinhit@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
+I obtained my Ph.D. in Computer Engineering at [Texas A&M University](https://www.tamu.edu/).  Previously, I completed my bachelor's degree in Electrical and Electronics Engineering  at [Harbin Institute of Technology](http://en.hit.edu.cn/).<!--- Here is my [resume](https://drive.google.com/file/d/15nmx0AYEzyDuG-Eg7kDtm7bIGg2_xdhA/view?usp=sharing).--> Here are my [Google Scholar](https://scholar.google.com/citations?user=0lVZNXIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Binbin_Li14), [LinkedIn](https://www.linkedin.com/in/binbli/), [GitHub]((https://github.com/binbli/), and [E-mail](mailto:libinbinhit@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
-My research interests include robot perception, behavior planning, scene understanding, localization and mapping for robotics.
+My research interests include robot perception, behavior planning, scene understanding, localization and mapping, optimization for robotics.
 
 Updates
 ------
@@ -28,10 +28,10 @@ Updates
 
 Services
 ------
-* Student Member: IEEE, IEEE RAS, SAE International.
-* Reviewer:  IROS 2015 - 2020; ICRA 2019, 2021; RA-L 2016, 2019, 2020; WAFR 2016, 2018; ISER 2018; IJRR, 2017; T-RO, 2016, 2019; RSS, 2016; ICIEA, 2014; T-ASE 2019.
+* Student Member: IEEE, IEEE RAS, SAE International, Sigma Xi.
+* Reviewer:  IROS 2015 - 2020; ICRA 2019, 2021, 2022; RA-L 2016, 2019, 2020, 2022; WAFR 2016, 2018; ISER 2018; IJRR, 2017; T-RO, 2016, 2019; RSS, 2016; ICIEA, 2014; T-ASE 2019.
 
-Teaching Skills
+Teaching
 ------
 Teaching Assistant, Compute Science Department, Texas A&M University
 * CS221: Data Structure and Algorithms, Fall 2018.
