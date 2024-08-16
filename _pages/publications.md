@@ -25,9 +25,9 @@ Selected Conference Papers
 * **Binbin Li**, Heping Chen, and Tongdan Jin, "Industrial Robotic Assembly Process Modeling Using Support Vector Regression", Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Chicago, USA, September 14 -18, 2014. [[URL](https://ieeexplore.ieee.org/document/6943175)]
 * James Farris, **Binbin Li**, Tongdan Jin, and Heping Chen, "Design of a Cost-Effective Wireless System for Estimating Solar Photovoltaics Generation", Proc. 24th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM), pp. 1 – 10, San Antonio, Texas, USA, May 2014. [[URL](https://cdm16018.contentdm.oclc.org/digital/collection/p15125coll7/id/6916/rec/1)]
 
-POSTER PRESENTATIONS
+<!-- POSTER PRESENTATIONS
 -----
 * Ankit Ramchandani, **Binbin Li** , Dezhen Song, Poster Presentation: "Autonomous Driving: Lane Detection by Fusing Camera Images and LIDAR Data", The USRG 2018 Poster Symposium, College Station, Texas, USA, August 3rd.
 * **Binbin Li**, Heping Chen, Tongdan Jin, Poster Presentation: "Online Robotic Parameter Optimization for High Precision Manufacturing via Analytic Hierarchy Process", INFORMS Annual Meeting, San Francisco, California, USA, November 9 – 12, 2014. (Oral)
 * Tongdan Jin, Heping Chen, Jesus Jimenez, **Binbin Li**, Victor Santana-Viera, Poster Presentation: "Towards Zero-Carbon Manufacturing Operation: An Advanced Analytics Decision", INFORMS Annual Meeting, San Francisco, California, USA, November 9 – 12, 2014. 
-* **Binbin Li**, Fei Sun, Tongdan Jin, H. Chen, Jesus Jimenez, Poster Presentation: "Powering Manufacturing Facility with Zero Carbon Emissions: in 2030 and Beyond ", 4th International Forum on Sustainable Manufacturing, Lexington, Kentucky, USA, September 2014. (Oral)
+* **Binbin Li**, Fei Sun, Tongdan Jin, H. Chen, Jesus Jimenez, Poster Presentation: "Powering Manufacturing Facility with Zero Carbon Emissions: in 2030 and Beyond ", 4th International Forum on Sustainable Manufacturing, Lexington, Kentucky, USA, September 2014. (Oral) -->
